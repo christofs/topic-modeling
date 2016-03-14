@@ -1,4 +1,4 @@
-Zotero-Tutorial
-===============
+Topic Modeling-Tutorial
+=======================
 
-Kleine Einführung in die wichtigsten Funktionen von Zotero.
+Kleine Einführung in einige Aspekte von Topic Modeling mit literarischen Texten.
